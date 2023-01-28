@@ -1,0 +1,20 @@
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\bin\Debug\WFA-Struct.exe.config
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\bin\Debug\WFA-Struct.exe
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\bin\Debug\WFA-Struct.pdb
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.csprojResolveAssemblyReference.cache
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\obj\Debug\WFA_Struct.Form1.resources
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\obj\Debug\WFA_Struct.Properties.Resources.resources
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.csproj.GenerateResource.Cache
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.exe
+c:\users\nasser\Favorites\Documents\Visual Studio 2008\Projects\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.pdb
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\bin\Debug\WFA-Struct.exe.config
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\bin\Debug\WFA-Struct.exe
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\bin\Debug\WFA-Struct.pdb
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.csproj.AssemblyReference.cache
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.csproj.SuggestedBindingRedirects.cache
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA_Struct.Form1.resources
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA_Struct.Properties.Resources.resources
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.csproj.GenerateResource.cache
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.csproj.CoreCompileInputs.cache
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.exe
+E:\SPRING-2022\CMPE214 - VISUAL PROGRAMMING\Programs\WFA-Struct\WFA-Struct\obj\Debug\WFA-Struct.pdb
